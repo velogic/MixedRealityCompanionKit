@@ -20,3 +20,9 @@ PosterCalibrationSample/Plugin/Plugin.VC.*
 PosterCalibrationSample/Plugin/Release*/
 PosterCalibrationSample/Plugin/Debug*/
 PosterCalibrationSample/Plugin/Packages*/
+
+KinectIPD/NuiSensor/x64/Debug/
+
+KinectIPD/packages/
+
+KinectIPD/x64/Debug/
